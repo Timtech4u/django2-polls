@@ -3,6 +3,7 @@ Polls
 =====
 
 An implementation of the Polls App using Django 2.0
+
 `pip install django==2.0`
 
 Updated Features
