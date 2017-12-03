@@ -16,6 +16,7 @@ Updated Features
     Visit: https://docs.djangoproject.com/en/2.0/releases/2.0/#simplified-url-routing-syntax
 
 2. Select2 implementation:
+    <img src="img/Select2.png">
 
     The Select2 input looks similar to the default input but comes with a search feature that loads the options asynchronously. This is faster and more user-friendly if the related model has many instances.
     Visit: https://docs.djangoproject.com/en/2.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.autocomplete_fields
