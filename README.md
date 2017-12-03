@@ -26,3 +26,7 @@ Updated Features
 
 
 Read the full Django2.0 Release Note here: https://docs.djangoproject.com/en/2.0/releases/2.0
+
+# Some more Updates (WIP):
+- on_delete is a required argument in Django 2.0. In older versions it defaults to CASCADE.
+- `django.core.urlresolvers` module is removed in favor of its new location, `django.urls`.
